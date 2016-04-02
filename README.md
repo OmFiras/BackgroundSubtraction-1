@@ -1,8 +1,13 @@
 # Background Subtraction
+  
   -Eigen space
+  
   -Gaussian kernel
+  
   -Frame differencing
+  
   -Expectation Maximization and Gaussian Mixture Model
+  
   -Dynamic Reverse Analysis
   
 # Training and Test set for Dynamic Reverse Analysis
